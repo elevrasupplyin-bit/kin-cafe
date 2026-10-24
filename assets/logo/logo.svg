@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 130" width="100%" height="100%" fill="none">
+  <!-- Hollow Pumpkin Icon with Ribs and Stem -->
+  <g id="pumpkin-mark" stroke="#1E1714" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Curved pumpkin stem -->
+    <path d="M 46 22 Q 48 10 57 11" fill="none" stroke-width="5" />
+    
+    <!-- Outer pumpkin lobes -->
+    <ellipse cx="46" cy="38" rx="28" ry="22" />
+    
+    <!-- Inner pumpkin vertical contour lines -->
+    <ellipse cx="46" cy="38" rx="18" ry="22" />
+    <line x1="46" y1="16" x2="46" y2="60" stroke-width="4" />
+  </g>
+
+  <!-- KIN Typography -->
+  <text x="96" y="52" font-family="&#39;Playfair Display&#39;, Georgia, serif" font-size="52" font-weight="700" letter-spacing="4" fill="#1E1714">KIN</text>
+  
+  <!-- Subtitle Descriptors -->
+  <text x="12" y="86" font-family="&#39;Plus Jakarta Sans&#39;, system-ui, sans-serif" font-size="14.5" font-weight="600" letter-spacing="4" fill="#3D342F">PATISSERIE · BAKERY</text>
+  <text x="12" y="108" font-family="&#39;Plus Jakarta Sans&#39;, system-ui, sans-serif" font-size="14.5" font-weight="600" letter-spacing="4" fill="#3D342F">CAFE · COMMUNITY</text>
+</svg>
