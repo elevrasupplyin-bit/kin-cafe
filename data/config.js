@@ -11,7 +11,7 @@ const SITE_CONFIG = {
   },
   contact: {
     address: "M-39, Basanti Nagar, Rourkela, Odisha 769012, India",
-    whatsappNumber: "", 
+    whatsappNumber: "919078000545", 
     phoneDisplay: "Contact on Instagram or visit us in Basanti Nagar",
     phoneNumber: "",
     email: "",
